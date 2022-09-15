@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @preplancedev
-- I made a social engineering server an ethical hacking tool 
+- I made an social engineering server an ethical hacking tool 
 - Here you can checkout the webapp  [Preplance](https://preplance.com/)
 
 <!---
